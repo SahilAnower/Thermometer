@@ -1,0 +1,10 @@
+body{
+    background-color: #3d56b2;
+    color: #FFF;
+}
+
+.container{
+    padding: 50px;
+    /* margin-top: 100px; */
+    text-align: center;
+}
